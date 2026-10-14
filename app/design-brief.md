@@ -1,0 +1,21 @@
+# Apollo-X Design Brief
+
+- Design read: Researchers and students need to compare multiple papers without losing the trail from conclusion to evidence.
+- Concept spine: An evidence archive transforms fragmented pages into a connected argument map.
+- Delivery tier: cinema, with a restrained interactive scroll film on the public introduction and a precise research workspace beyond it.
+- Theme paradigm: Pristine Light, cool bone surfaces and ink typography.
+- Background character: soft architectural depth, paper planes, and fine connection lines.
+- Typography character: refined grotesk display paired with mono metadata.
+- Hero architecture: image-first cinematic field with restrained copy and negative space.
+- Locked palette: background #EFF3F8, surface #FFFFFF, ink #111A2B, muted #6B7486, single accent #2B4BB8. Cobalt marks an evidence link without generic neon AI colors.
+- Locked type: sans display and mono metadata. No serif.
+- Animation mode: animated-website.
+- Journey shape: single-shot. One continuous archive-to-network film keeps the story coherent and avoids artificial seams.
+- Journey: fragments become sources, sources become claims, claims reveal agreement and conflict, the workspace preserves citations and open questions.
+- World grammar: cool bone-white space, cobalt connection lines, silver-gray paper planes, soft side light, fine grain, no visible text in the film.
+- Mobile framing: preserve the central evidence motif; chapter copy anchors low-left.
+- Section plan: cinematic journey, asymmetric workspace introduction, editorial capability index, workflow explanation, wide CTA band.
+- Asset plan: single-shot journey clip and exact first-frame poster, matching mobile fallback, cobalt monogram family, social card, consistent line icon language, evidence graph motifs.
+- CTA inventory: hero route-line text link, workspace entry press-stamp block, capability row reveal, full-width archive strip.
+- Signature interaction: scrolling scrubs one continuous film from scattered papers into an evidence network. Reduced-motion visitors receive the poster and complete semantic story without fetching video.
+- Anti-convergence ledger: light palette, sans/mono typography, image-first hero, scroll-scrub technique, route-line and press-stamp CTA garments, soft 12px corners.
